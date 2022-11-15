@@ -1,6 +1,14 @@
 # push-baidu
 用Python实现通过站长API向百度提交链接收录，支持本地txt、sitemap.xml链接
 
+## 使用
+
+下载地址：[https://github.com/Qiantigers/push-baidu/releases](https://github.com/Qiantigers/push-baidu/releases)
+
+1. 解压
+2. 配置config.json
+3. 双击运行
+
 ## 说明
 
 * 填写sitemap模式，仅支持xml类型
