@@ -15,6 +15,8 @@
 
 * 填写local模式，仅支持txt格式
 
+* 详细介绍：[https://www.qian.blue/archives/push-baidu.html](https://www.qian.blue/archives/push-baidu.html)
+
 ## 效果图
 
 ![image-20221115173724288](https://myfile.qian.blue/image/2022/11/030650fcd7a34134c0dab09f91566e92.png)
