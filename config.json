@@ -1,0 +1,7 @@
+{
+"api": "",
+"##": "mode：local or sitemap",
+"mode": "",
+"##": "如果是local就写本地路径，如果是sitemap就写链接",
+"path": ""
+}
